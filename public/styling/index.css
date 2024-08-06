@@ -4,9 +4,6 @@ body {
 
     display: flex;
 
-    font-family: "Courier New", "monospaced";
-    font-size: ;
-
     text-align: center;
 }
 
@@ -32,6 +29,8 @@ h1 {
 
 .container {
     display: block;
+
+    font-family: "Courier New", "monospaced";
 
     background-color: black;
 
