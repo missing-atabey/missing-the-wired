@@ -45,7 +45,8 @@ body {
 }
 
 .left-bar ul li:hover {
-    background-color: #1e1e1e;
+    background-color: #1a1a1a;
+    color: #ff05b6;
 }
 
 .left-bar img {
