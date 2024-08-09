@@ -12,9 +12,9 @@ body {
     margin-right: 2em;
     margin-top: 2em;
 
-    padding: .5em .5em;
+    padding: 1em 15em;
 
-    gap: .5em;
+    gap: .8em;
 }
 
 .container {
@@ -65,4 +65,10 @@ body {
 
 #right-bar h2 {
     font-weight: normal;
+}
+
+iframe {
+    width: 15em;
+    height: 15em;
+    border-width: .1em;
 }
